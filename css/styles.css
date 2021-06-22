@@ -54,7 +54,7 @@ h1 {
 
 
 .triangle {
-  font-size: 50px;
+  font-size: 100%;
   line-height: 2;
 }
 
@@ -81,10 +81,14 @@ div.alvas {
 
 
 .skill-row {
-  width: 50%;
+  width: 80%;
   margin: 50px auto 50px auto;
   text-align: left;
   line-height: 2;
+}
+
+.mid {
+  text-align: center;
 }
 
 .webdev-img {
@@ -164,6 +168,7 @@ div.alvas {
   background-color: black;
 }
 
+
 .bottom-text{
   color: white;
   margin-bottom: 0;
@@ -175,6 +180,7 @@ div.alvas {
 .social-icons{
   padding: 0;
 }
+
 
 li {
   display: inline-block;
